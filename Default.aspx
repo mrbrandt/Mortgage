@@ -28,7 +28,11 @@
         <asp:Button ID="PerformCalcButton" runat="server" Text="Compute Monthly Cost" />
         <br />
         <br />
+        <br />
+        <br />
         <asp:Label ID="Results" runat="server"></asp:Label>
+        <br />
+        <br />
     
     </div>
     </form>
